@@ -7,6 +7,11 @@ const nextConfig = {
         hostname: "totalcrane.co.id",
         port: "",
       },
+      {
+        protocol: "https",
+        hostname: "img.freepik.com",
+        port: "",
+      },
     ],
   },
 };
