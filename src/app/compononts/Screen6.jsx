@@ -49,8 +49,8 @@ const Column = ({ headName = "", listItems = [], columnNumber = 0 }) => {
 
 function Screen6() {
   return (
-    <div className="bg-[#004B84] min-h-[600px] md:p-0 p-3">
-      <div className="flex items-center md:flex-row flex-col md:pl-10 md:pt-48">
+    <div className="bg-[#004B84] min-h-[600px] md:p-0 p-3 flex items-center">
+      <div className="flex items-center md:flex-row flex-col md:pl-10 ">
         <div className="md:w-[50%] w-[100%] md:mb-0 mb-5 text-left text-white">
           <h3 className="text-[30px] font-semibold mb-5">Our Progress</h3>
           <h6>
