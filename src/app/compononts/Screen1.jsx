@@ -8,7 +8,7 @@ function Screen1() {
       <div className="flex items-center min-h-[600px] md:flex-row flex-col pt-10">
         <div className="w-[50%]">
           <div className="flex justify-center">
-            <Image src={picture} width={400} height={400} />
+            <Image alt="computer" src={picture} width={400} height={400} />
           </div>
         </div>
         <div className="flex flex-col items-center md:w-[50%] w-[100%]">

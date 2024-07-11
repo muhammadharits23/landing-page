@@ -8,6 +8,7 @@ function Screen11() {
         <div className="md:w-[50%] w-[100%] md:pt-0 pt-7">
           <div className="flex justify-center">
             <Image
+              alt="hellicopter"
               src={
                 "https://img.freepik.com/free-vector/emergency-rescue-team-help-people-cartoon-style_1308-96770.jpg"
               }

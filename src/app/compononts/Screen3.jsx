@@ -25,20 +25,20 @@ function Screen3() {
           <br />
           <br />
           <br />
-          Reporting on the SDGs is important in communicating to stakeholders
+          {`Reporting on the SDGs is important in communicating to stakeholders
           the company's commitment to contributing to the Global Goals, claiming
           accountability and responsibility to take the necessary actions, and
-          measuring progress over time.
+          measuring progress over time.`}
           <br />
           <br />
           <br />
-          SDG Progress Reports cater to a variety of audiences, so it's best to
+          {`SDG Progress Reports cater to a variety of audiences, so it's best to
           adjust it accordingly. First, identify your target reader. Next, you
           can shift your focus on what they need to know. For example, your
           action plans are in the interest of your beneficiaries. Your investors
           might prefer details like timelines or budgets, while others like your
           external stakeholders will be more interested in the impact made, the
-          challenges you encountered, and the lessons you learned from them.
+          challenges you encountered, and the lessons you learned from them.`}
         </h5>
       </div>
     </div>

@@ -10,13 +10,13 @@ function Screen4() {
             Massage From Our Leader
           </h3>
           <h5 className="md:pr-10 pr-6 md:p-0 p-6">
-            Make your employees feel welcome and valued with a carefully crafted
+            {`Make your employees feel welcome and valued with a carefully crafted
             opening message. Aside from serving as a greeting, this space is
             also great for showing what your company culture is like by example.
             Share your thoughts on the company's beginnings and growth. Mention
             your vision for the company. Remember to express your appreciation
             and willingness to listen to everyone's ideas. And finally, remind
-            each person how important they are to the bigger group.
+            each person how important they are to the bigger group.`}
           </h5>
         </div>
         <div className="flex justify-center flex-col md:pl-44 pl-0">
